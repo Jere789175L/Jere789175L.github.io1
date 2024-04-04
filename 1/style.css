@@ -31,7 +31,7 @@ a.linkki {
     color: var(--secondary-color);
 }
 a.linkki:hover{
-    color: var(--secondary-color-dark);
+    color: var(--background-color);
 }
 
 p.par1 {
@@ -41,4 +41,14 @@ p.par1 {
     text-align: center;
     text-decoration: underline;
     padding-bottom: 2rem;
+}
+
+.button {
+    border: none;
+    color: var(--primary-color-dark);
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: var(--primary-font-size);
 }
