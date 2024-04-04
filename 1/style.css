@@ -43,7 +43,7 @@ p.par1 {
     padding-bottom: 2rem;
 }
 
-a.button {
+.button {
     border: none;
     color: var(--primary-color-dark);
     padding: 15px 32px;
@@ -51,4 +51,6 @@ a.button {
     text-decoration: none;
     display: inline-block;
     font-size: var(--primary-font-size);
+    margin: 4px 2px;
+    cursor: crosshair;
 }
