@@ -9,8 +9,8 @@ body {
     --primary-font-size: 16px;
 }
 
-h1.ots {
-    font-size: 20px;
+.ots {
+    font-size: 25px;
     font-family: var(--primary-font);
     font-weight: bold;
     padding-bottom: 1rem;
@@ -43,7 +43,7 @@ p.par1 {
     padding-bottom: 2rem;
 }
 
-.button {
+a.button {
     border: none;
     color: var(--primary-color-dark);
     padding: 15px 32px;
@@ -53,4 +53,7 @@ p.par1 {
     font-size: var(--primary-font-size);
     margin: 4px 2px;
     cursor: crosshair;
+    position: absolute;
+    justify-items: center;
+
 }
