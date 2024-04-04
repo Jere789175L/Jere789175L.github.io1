@@ -38,6 +38,7 @@ p.par1 {
     margin: 4px 2px;
     cursor: crosshair;
     border-radius: 4px;
+    background: var(--primary-color);
 
 
 }
