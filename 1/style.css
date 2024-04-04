@@ -18,22 +18,6 @@ body {
     color: var(--secondary-color);
 }
 
-.linkki1 {
-    text-align: center;
-}
-a.linkki {
-    font-size: 12px;
-    font-family: var(--primary-font);
-    font-weight: normal;
-    padding-bottom: 1rem;
-    text-align: center;
-    text-decoration: none;
-    color: var(--secondary-color);
-}
-a.linkki:hover{
-    color: var(--background-color);
-}
-
 p.par1 {
     font-size: var(--primary-font-size);
     color: var(--primary-color);
@@ -43,7 +27,7 @@ p.par1 {
     padding-bottom: 2rem;
 }
 
-a.button {
+.button {
     border: none;
     color: var(--primary-color-dark);
     padding: 15px 32px;
@@ -53,7 +37,6 @@ a.button {
     font-size: var(--primary-font-size);
     margin: 4px 2px;
     cursor: crosshair;
-    position: absolute;
-    justify-items: center;
+
 
 }
