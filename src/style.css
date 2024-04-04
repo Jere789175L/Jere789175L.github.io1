@@ -27,3 +27,15 @@ body {
     color: var(--secondary-color);
 }
 
+.linkit {
+    font-size: 12px;
+    font-family: var(--primary-font);
+    font-weight: normal;
+    padding-bottom: 1rem;
+    text-align: center;
+    text-decoration: none;
+    color: var(--secondary-color);
+}
+
+
+
