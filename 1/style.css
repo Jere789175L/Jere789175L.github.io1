@@ -43,7 +43,7 @@ p.par1 {
     padding-bottom: 2rem;
 }
 
-.button {
+a.button {
     border: none;
     color: var(--primary-color-dark);
     padding: 15px 32px;
